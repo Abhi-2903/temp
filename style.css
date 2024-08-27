@@ -1,0 +1,47 @@
+body{
+    font-family: monospace;
+    background-color: rgb(214, 221, 219);
+}
+h1{
+    color: rgb(33, 98, 148);
+    font-size: 30px;
+}
+form{
+    background-color: seashell;
+    text-align: center;
+    max-width: 350px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.2); 
+}
+#temperature{
+    font-size: 25px;
+    font-weight: 100;
+    text-align: center;
+    padding: 10px;
+}
+.radio{
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 10px;
+}
+button{
+    background-color: rgb(33, 98, 148);
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+#result{
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 10px;
+}
+.rrr{
+    cursor: pointer;
+    font-size: 10px;
+}
